@@ -1,0 +1,7 @@
+a = 4
+
+if a > 0;
+    print("it is positive")
+    print("it's still positive")
+else:
+    print("it is not positive")
